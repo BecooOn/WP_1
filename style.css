@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* color: white; */
+}
+
+body {
+  background-image: url(./img/background_image.jpg);
+}
+
+.Net {
+  color: white;
+}
+
+.container1 {
+  /* border: 5px solid green; */
+  width: 1920px;
+  height: 919px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.netflix {
+  margin-top: 20px;
+  font-family: "Bowlby One SC", sans-serif;
+  letter-spacing: 4px;
+  font-variant: small-caps;
+}
+
+.container2 {
+  /* border: 2px solid red; */
+  /* display: flex; */
+  text-align: center;
+  width: 97%;
+  height: 887px;
+  margin: 20px 50px 10px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.418);
+  font-family: sans-serif;
+}
+
+
+
+.container3 {
+  /* border: 2px solid red; */
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  text-align: left;
+  width: 400px;
+  height: 772px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.836);
+}
+
+#name {
+  width: 350px;
+  height: 40px;
+  padding: 5px;
+}
+
+#age {
+  width: 350px;
+  height: 40px;
+  padding: 5px;
+}
+
+#email {
+  width: 350px;
+  height: 40px;
+  padding: 5px;
+}
+
+#content {
+  width: 330px;
+  height: 36px;
+  padding: 5px;
+}
+
+#feedback {
+  /* line-height: 2rem; */
+  padding: 15px 0px 0px 15px;
+}
+
+#submit {
+  /* border: 2px solid rgb(0, 255, 213); */
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+div#submit input {
+  width: 140px;
+  height: 40px;
+  background-color: rgb(255, 0, 0);
+  border-radius: 22px;
+  border: none;
+  color: white;
+  font-size: 18px;
+}
+
+input::placeholder {
+  /* Standard */
+  font-weight: 500;
+}
+
+textarea::placeholder {
+  /* Standard */
+  font-weight: bolder;
+  font-size: 14px;
+}
