@@ -24,7 +24,7 @@ Project aims to create survey form within html and css.
         |----index.html  
         |----style.css   
         |----result.html 
-```
+````` 
 
 ## Expected Outcome ##
 
@@ -34,7 +34,7 @@ Project aims to create survey form within html and css.
 
 Functionally create a Survey Form as in the image above
 
-### At the end of the project, following topics are to be covered;
+## At the end of the project, following topics are to be covered;
 
 - HTML Forms-Input Types 
 
@@ -47,7 +47,7 @@ Functionally create a Survey Form as in the image above
 - CSS Properties for Texts-Font Families-Links
 
 
-### At the end of the project, students will be able to;
+## At the end of the project, students will be able to;
 
 - improve coding skills within HTML & CSS
 
